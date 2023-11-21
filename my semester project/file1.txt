@@ -1,0 +1,5 @@
+No. of Alphabets :: 38
+
+No. Of Digits :: 20
+
+No. Of White Spaces ::23
